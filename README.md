@@ -3,6 +3,7 @@
 <br />
 
 <div align="center">
+    <h2>daily.dev</h2>    
     <a href="https://app.daily.dev/LDdvlp">
         <img
             src="https://api.daily.dev/devcards/6a2db644d7b342d5924aa8a261fc3c97.png?r=d2h" width="400"
@@ -14,6 +15,7 @@
 <hr />
 
 <div align="center">
+    <h2>hashnode</h2>   
     <a href="https://lddvlp.hashnode.dev/">
         <img
             src="/images/hashnode.jfif" width="400"
