@@ -16,8 +16,7 @@
 <div align="center">
     <a href="https://lddvlp.hashnode.dev/">
         <img
-            src="/images/hashnode.jfif" width="400"
-            alt="LDdvlp Papers"
+            src="/images/hashnode.jfif" width="400" alt="LDdvlp Papers"
          />
     </a>
     <p>LDvlp Papers</p>
