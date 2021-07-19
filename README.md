@@ -17,7 +17,7 @@
 <div align="center">
     <h2>Hashnode</h2>
     <h3>LDdvlp Papers</h3>
-    <a href="https://lddvlp.hashnode.dev/" target="_blank"><img src="/images/hashnode.jfif" width="200" alt="LDdvlp Papers" /></a>
+    <a href="https://lddvlp.hashnode.dev/"><img src="/images/hashnode.jfif" width="200" alt="LDdvlp Papers" /></a>
 </div>
 
 <br />
@@ -32,7 +32,7 @@
 <br />
 
 <div align="center">
-    <h2>Languages and technologies</h2>
+    <h2>Languages and Technologies</h2>
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lddvlp)
 
