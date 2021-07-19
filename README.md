@@ -3,7 +3,7 @@
 <br />
 
 <div align="center">
-    <h2>daily.dev</h2>    
+    <h2>Daily.dev</h2>    
     <a href="https://app.daily.dev/LDdvlp">
         <img
             src="https://api.daily.dev/devcards/6a2db644d7b342d5924aa8a261fc3c97.png?r=d2h" width="400"
@@ -15,33 +15,35 @@
 <br />
 
 <div align="center">
-    <h2>hashnode</h2>
+    <h2>Hashnode</h2>
     <h3>LDdvlp Papers</h3>
-    <a href="https://lddvlp.hashnode.dev/">
+    <a href="https://lddvlp.hashnode.dev/" target="_blank">
         <img
-            src="/images/hashnode.jfif" width="400"
+            src="/images/hashnode.jfif" width="200"
             alt="LDdvlp Papers"
          />
     </a>
 </div>
 
-<hr />
+<br />
 
 <div align="center">
+    <h2>GitHub Statistics</h2>
     
 ![Stats](https://github-readme-stats.vercel.app/api?username=lddvlp&show_icons=true&theme=radical&count_private=true)
 
 </div>
 
-<hr />
+<br />
 
 <div align="center">
+    <h2>Languages and technologies</h2>
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lddvlp)
 
 </div>
 
-<hr />
+<br />
 
 <div align="center">
     
