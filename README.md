@@ -14,12 +14,18 @@
 <hr />
 
 <div align="center">
+    
     ![Stats](https://github-readme-stats.vercel.app/api?username=lddvlp&show_icons=true&theme=radical&count_private=true)
+
 </div>
 
 <hr />
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lddvlp)
+<div align="center">
+
+    ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lddvlp)
+
+</div>
 
 <hr />
 
