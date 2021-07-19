@@ -1,6 +1,6 @@
 # You are welcome here :-) 
 
-<div style="margin-left: auto; margin-right: auto;">
+<div style="margin-left: auto; margin-right: auto; background-color: orange;">
     <a href="https://app.daily.dev/LDdvlp">
         <img 
             src="https://api.daily.dev/devcards/6a2db644d7b342d5924aa8a261fc3c97.png?r=d2h" width="400"
