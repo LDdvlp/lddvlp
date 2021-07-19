@@ -1,6 +1,12 @@
 ### WARNING - RESTRICTED AREA (NOT 51 BECAUSE NO UFO PRESENCE)
 ✨ _Unlocked Level_ ✨ 
 
+    <a href="https://app.daily.dev/LDdvlp"><img
+            src="https://api.daily.dev/devcards/6a2db644d7b342d5924aa8a261fc3c97.png?r=d2h" width="400"
+            alt="Loïc Drouet's Dev Card" /></a>
+
+
+
 <!--
 **LDdvlp/lddvlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
