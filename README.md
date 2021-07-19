@@ -15,7 +15,7 @@
 
 <div align="center">
     
-    ![Stats](https://github-readme-stats.vercel.app/api?username=lddvlp&show_icons=true&theme=radical&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=lddvlp&show_icons=true&theme=radical&count_private=true)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-    ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lddvlp)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lddvlp)
 
 </div>
 
