@@ -11,6 +11,8 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=lddvlp&show_icons=true&theme=radical&count_private=true)
 
+<hr />
+
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lddvlp)
 
 <!--
