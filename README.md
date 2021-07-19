@@ -13,7 +13,9 @@
 
 <hr />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lddvlp&show_icons=true&theme=radical&count_private=true)
+<div align="center">
+    ![Stats](https://github-readme-stats.vercel.app/api?username=lddvlp&show_icons=true&theme=radical&count_private=true)
+</div>
 
 <hr />
 
