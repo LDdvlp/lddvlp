@@ -14,6 +14,18 @@
 <hr />
 
 <div align="center">
+    <a href="https://lddvlp.hashnode.dev/">
+        <img
+            src="https://api.daily.dev/devcards/6a2db644d7b342d5924aa8a261fc3c97.png?r=d2h" width="400"
+            alt="LDdvlp Papers" 
+        />
+    </a>
+    <p>LDvlp Papers</p>
+</div>
+
+<hr />
+
+<div align="center">
     
 ![Stats](https://github-readme-stats.vercel.app/api?username=lddvlp&show_icons=true&theme=radical&count_private=true)
 
