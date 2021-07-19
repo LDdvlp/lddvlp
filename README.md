@@ -2,7 +2,7 @@
 
 <a href="https://app.daily.dev/LDdvlp">
     <img
-        align="center"      
+        style="margin-left:auto; margin-right:auto;"      
         src="https://api.daily.dev/devcards/6a2db644d7b342d5924aa8a261fc3c97.png?r=d2h" width="400"
         alt="Loïc Drouet's Dev Card" 
     />
