@@ -8,7 +8,9 @@
 </a>
 
 <hr />
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=lddvlp&show_icons=true&theme=radical&count_private=true)
+
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lddvlp)
 
 <!--
