@@ -1,7 +1,5 @@
 <h1 align="center"> You are welcome here :-)</h1>
 
-<br />
-
 <div align="center">
     <h2>daily.dev</h2>    
     <a href="https://app.daily.dev/LDdvlp">
@@ -12,17 +10,15 @@
     </a>
 </div>
 
-<hr />
-
 <div align="center">
-    <h2>hashnode</h2>   
+    <h2>hashnode</h2>
+    <h3>LDdvlp Papers</h3>
     <a href="https://lddvlp.hashnode.dev/">
         <img
             src="/images/hashnode.jfif" width="400"
             alt="LDdvlp Papers"
          />
     </a>
-    <h2>LDvlp Papers</h2>
 </div>
 
 <hr />
