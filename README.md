@@ -37,7 +37,7 @@
 <br />
 
 <div align="center">
-    <h2>Languages and Technologies</h2>
+    <h2>Languages</h2>
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lddvlp)
 
@@ -46,6 +46,7 @@
 <br />
 
 <div align="center">
+    <h2>Technologies</h2>
     
 <img alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -53,9 +54,11 @@
 
 <img alt="JavaScript" width="50px"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img alt="SQL" width="90px" src="/images/sql-logo.jpg" />
 
-<img alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img alt="phpMyAdmin-MySQL" width="130px" src="/images/phpmyadmin-mysql-logo.png" />
+
+<img alt="PHP" width="60px" src="/images/php-logo-alt.png" />
 
 <img alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
@@ -63,7 +66,11 @@
 
 <img alt="Shell" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img alt="cPanel" width="100px" src="/images/cPanel_orange_RGB.png" />
+<img alt="cPanel" width="100px" src="/images/cpanel-logo.png" />
+
+<img alt="Joomla!" width="65px" src="/images/joomla-logo.png" />
+
+<img alt="MSX" width="70px" src="/images/msx-logo.png" />
 
 </div>
 
