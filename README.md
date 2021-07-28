@@ -63,6 +63,8 @@
 
 <img alt="Shell" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<img alt="cPanel" width="100px" src="/images/cPanel_orange_RGB.png" />
+
 </div>
 
 <!--
