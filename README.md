@@ -19,7 +19,7 @@
     <h3>LDdvlp Papers</h3>
     <a href="https://lddvlp.hashnode.dev/">
         <img 
-            src="/images/hashnode.jfif" 
+            src="/images/00-hashnode-logo.jfif" 
             width="200" alt="LDdvlp Papers" 
         />
     </a>
@@ -47,30 +47,63 @@
 
 <div align="center">
     <h2>Technologies</h2>
-    
+
+<!-- Image #01    -->
 <img alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
+<!-- Image #02    -->
 <img alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img alt="JavaScript" width="50px"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<!-- Image #03    -->
+<img alt="JavaScript" width="50px"   src="/images/03-javascript-logo.png" />
 
-<img alt="SQL" width="90px" src="/images/sql-logo.jpg" />
+<!-- Image #04    -->
+<img alt="SQL" width="90px" src="/images/04-sql-logo.jpg" />
 
-<img alt="phpMyAdmin-MySQL" width="130px" src="/images/phpmyadmin-mysql-logo.png" />
+<!-- Image #05    -->
+<img alt="phpMyAdmin-MySQL" width="130px" src="/images/05-phpmyadmin-mysql-logo.png" />
 
-<img alt="PHP" width="60px" src="/images/php-logo-alt.png" />
+<!-- Image #06    -->
+<img alt="PHP" width="60px" src="/images/06-php-logo-alt.png" />
 
+<!-- Image #07    -->
 <img alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
+<!-- Image #08    -->
 <img alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<!-- Image #09    -->
 <img alt="Shell" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img alt="cPanel" width="100px" src="/images/cpanel-logo.png" />
+<!-- Image #10    -->
+<img alt="cPanel" width="100px" src="/images/10-cpanel-logo.png" />
 
-<img alt="Joomla!" width="65px" src="/images/joomla-logo.png" />
+<!-- Image #11    -->
+<img alt="Joomla!" width="65px" src="/images/11-joomla-logo.png" />
 
-<img alt="MSX" width="70px" src="/images/msx-logo.png" />
+<!-- Image #12    -->
+<img alt="Bash" width="80px" src="/images/12-bash-logo.png" />
+
+<!-- Image #13    -->
+<img alt="Zsh" width="80px" src="/images/13-zsh-logo.gif" />
+
+<!-- Image #14    -->
+<img alt="Oh My Zsh" width="100px" src="/images/14-oh_my_zsh-logo.png" />
+
+<!-- Image #15    -->
+<img alt="PowerShell" width="120px" src="/images/15-powershell-logo.jpg" />
+
+<!-- Image #16    -->
+<img alt="cmd" width="40px" src="/images/16-cmd-logo.png" />
+
+<!-- Image #17    -->
+<img alt="cmd" width="160px" src="/images/17-wsl2-logo.jpg" />
+
+<!-- Image #18    -->
+<img alt="cmd" width="130px" src="/images/18-mvc-logo.gif" />
+
+<!-- Image #99    -->
+<img alt="MSX" width="70px" src="/images/99-msx-logo.png" />
 
 </div>
 
