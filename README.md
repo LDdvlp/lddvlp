@@ -97,13 +97,31 @@
 <img alt="cmd" width="40px" src="/images/16-cmd-logo.png" />
 
 <!-- Image #17    -->
-<img alt="cmd" width="160px" src="/images/17-wsl2-logo.jpg" />
+<img alt="WSL2" width="160px" src="/images/17-wsl2-logo.jpg" />
 
 <!-- Image #18    -->
-<img alt="cmd" width="130px" src="/images/18-mvc-logo.gif" />
+<img alt="MVC" width="120px" src="/images/18-mvc-logo.jpg" />
 
-<!-- Image #99    -->
-<img alt="MSX" width="70px" src="/images/99-msx-logo.png" />
+<!-- Image #19    -->
+<img alt="MediaWiki" width="65px" src="/images/19-mediawiki-logo.png" />
+
+<!-- Image #90    -->
+<img alt="Sublime Text" width="55px" src="/images/90-sublime_text-logo.png" />
+
+<!-- Image #91    -->
+<img alt="VS Code" width="55px" src="/images/91-vs_code-logo.png" />
+
+<!-- Image #92    -->
+<img alt="IntelliJ IDEA" width="55px" src="/images/92-intellij_idea.png" />
+
+<!-- Image #95   -->
+<img alt="MSX" width="73px" src="/images/95-msx-logo.png" />
+
+<!-- Image #96    -->
+<img alt="MSX-BASIC" width="73px" src="/images/96-msx_ basic-logo.jfif" />
+
+<!-- Image #97    -->
+<img alt="MSX-DOS" width="69px" src="/images/97-msx_dos-logo.jpg" />
 
 </div>
 
