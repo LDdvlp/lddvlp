@@ -123,6 +123,9 @@
 <!-- Image #97    -->
 <img alt="MSX-DOS" width="69px" src="/images/97-msx_dos-logo.jpg" />
 
+<!-- Image #99    -->
+<img alt="Amber Terminal" width="160px" src="/images/98-amber_terminal.gif" />
+
 </div>
 
 <!--
