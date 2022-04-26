@@ -128,6 +128,13 @@
 
 </div>
 
+<br />
+
+<div align="center">
+    <h2>Daily Dev Bookmarks</h2>
+
+</div>
+
 <!--
 **LDdvlp/lddvlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
