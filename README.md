@@ -132,6 +132,9 @@
 
 <div align="center">
     <h2>Daily Dev Bookmarks</h2>
+    
+<!--  daily.dev BOOKMARKS:START -->
+<!--  daily.dev BOOKMARKS:END -->
 
 </div>
 
