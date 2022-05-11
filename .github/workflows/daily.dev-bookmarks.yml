@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "daily.dev BOOKMARKS"
-          max_post_count: 5
+          max_post_count: "5"
           feed_list: "https://api.daily.dev/rss/b/11c29ef8-70f1-4c29-b88c-4a00bb6cefd0"
