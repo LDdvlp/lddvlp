@@ -134,5 +134,7 @@
     <h2>Daily Dev Bookmarks</h2>
 </div>
 
-<!-- BOOKMARKS:START -->
-<!-- BOOKMARKS:END -->
+## daily.dev Bookmarks 
+
+<!-- daily.dev BOOKMARKS:START -->
+<!-- daily.dev BOOKMARKS:END -->
