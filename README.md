@@ -128,7 +128,7 @@
 
 </div>
 
-
+<br />
 
 <div align="center">
     <h2>Daily Dev Bookmarks</h2>
