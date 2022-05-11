@@ -134,7 +134,7 @@
     <h2>Daily Dev Bookmarks</h2>
 </div>
 
-## Daily Dev Bookmarks 
+##
 
 <!-- daily.dev BOOKMARKS:START -->
 - [Object-Oriented Programming in JavaScript for Beginners](https://app.daily.dev/posts/4VkUo5dPy?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
