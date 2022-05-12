@@ -140,4 +140,9 @@
 - [State of CSS 2022](https://app.daily.dev/posts/KNo9WXVcS?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 - [16 useful TypeScript and JavaScript shorthands to know](https://app.daily.dev/posts/G4PCzkRiR?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 - [Object-Oriented Programming in JavaScript for Beginners](https://app.daily.dev/posts/4VkUo5dPy?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
+- [Developer Tips on Becoming Your Own Boss](https://app.daily.dev/posts/uTOXjXP9R?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
+- [As a software engineer, it’s important to build good habits](https://app.daily.dev/posts/51NhdfWkm?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
+- [Your Old Laptop Is Your New Database Server](https://app.daily.dev/posts/4rFMo0mYz?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
+- [7 Free Terminal Tools and Emulators to Boost Development Productivity](https://app.daily.dev/posts/vC6LiXsmN?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
+- [PyScript: Python in the browser](https://app.daily.dev/posts/RcIlPSy9D?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 <!-- daily.dev BOOKMARKS:END -->
