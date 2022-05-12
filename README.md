@@ -145,4 +145,9 @@
 - [Your Old Laptop Is Your New Database Server](https://app.daily.dev/posts/4rFMo0mYz?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 - [7 Free Terminal Tools and Emulators to Boost Development Productivity](https://app.daily.dev/posts/vC6LiXsmN?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 - [PyScript: Python in the browser](https://app.daily.dev/posts/RcIlPSy9D?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
+- [Get good at Git](https://app.daily.dev/posts/2aeGZE3lQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
+- [Software Developer vs Software Engineer](https://app.daily.dev/posts/_z87_Z_Xl?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
+- [Tableful - Create REST API via tables and manage your data](https://app.daily.dev/posts/Uza5c7Wt2?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
+- [The Complete Guide to Regular Expressions &lpar;Regex&rpar;](https://app.daily.dev/posts/4wkqhDPAP?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
+- [How I Built It: The Anatomy of a VS Code Extension](https://app.daily.dev/posts/Lp0Hi2NuZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 <!-- daily.dev BOOKMARKS:END -->
