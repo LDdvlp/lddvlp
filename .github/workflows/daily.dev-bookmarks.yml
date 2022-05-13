@@ -10,12 +10,15 @@ jobs:
     name: Update this repo's README with latest bookmarks from daily.dev
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in daily.dev bookmarks 
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "daily.dev BOOKMARKS"
           max_post_count: 15
           commit_message: "Updated README.md with the 15 latest Daily Dev bookmarks"
           feed_list: "https://api.daily.dev/rss/b/11c29ef8-70f1-4c29-b88c-4a00bb6cefd0"
           template: "\n$counter. [$title]($url)"
+          tag_post_pre_newline: false
           
