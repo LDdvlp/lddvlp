@@ -135,6 +135,7 @@
 </div>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [IT Tools - Collection of handy online tools for devs, with great UX](https://app.daily.dev/posts/6N6Fr3J8p?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 - [REST API Design Best Practices – How to Build a REST API with JavaScript, Node.js, and Express.js](https://app.daily.dev/posts/ju0gEvNNX?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 - [Traits of a senior software engineer](https://app.daily.dev/posts/UOdrl0SfA?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 - [State of CSS 2022](https://app.daily.dev/posts/KNo9WXVcS?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
@@ -149,5 +150,4 @@
 - [Software Developer vs Software Engineer](https://app.daily.dev/posts/_z87_Z_Xl?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 - [Tableful - Create REST API via tables and manage your data](https://app.daily.dev/posts/Uza5c7Wt2?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 - [The Complete Guide to Regular Expressions &lpar;Regex&rpar;](https://app.daily.dev/posts/4wkqhDPAP?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
-- [How I Built It: The Anatomy of a VS Code Extension](https://app.daily.dev/posts/Lp0Hi2NuZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 <!-- daily.dev BOOKMARKS:END -->
