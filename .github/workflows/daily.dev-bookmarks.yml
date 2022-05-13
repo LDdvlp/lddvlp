@@ -17,5 +17,5 @@ jobs:
           max_post_count: 15
           commit_message: "Updated README.md with the 15 latest Daily Dev bookmarks"
           feed_list: "https://api.daily.dev/rss/b/11c29ef8-70f1-4c29-b88c-4a00bb6cefd0"
-          template: "$counter. [$title]($url)\n"
+          template: "$counter. [$title]($url)\n\n"
           
