@@ -1,8 +1,8 @@
 name: daily.dev Bookmarks
 on:
   schedule:
-    # Runs every day
-    - cron: '0 0 * * *'
+    # Runs 2 Minutes To Midnight (and Not to the Hills) [Up the Irons !]
+    - cron: '58 23 * * *'
   workflow_dispatch:
 
 jobs:
