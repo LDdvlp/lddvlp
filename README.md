@@ -134,8 +134,7 @@
     <h2>Daily Dev Bookmarks</h2>
 </div>
 
-<!-- daily.dev BOOKMARKS:START -->
-1. [What is JDBC? Introduction to Java Database Connectivity](https://app.daily.dev/posts/ybeLcziYe?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
+<!-- daily.dev BOOKMARKS:START -->1. [What is JDBC? Introduction to Java Database Connectivity](https://app.daily.dev/posts/ybeLcziYe?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 2. [A Fan is Remaking Need for Speed Underground 2 in Unreal Engine](https://app.daily.dev/posts/BMhv4r9j7?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 3. [IT Tools - Collection of handy online tools for devs, with great UX](https://app.daily.dev/posts/6N6Fr3J8p?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 4. [REST API Design Best Practices – How to Build a REST API with JavaScript, Node.js, and Express.js](https://app.daily.dev/posts/ju0gEvNNX?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
@@ -150,5 +149,4 @@
 13. [PyScript: Python in the browser](https://app.daily.dev/posts/RcIlPSy9D?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 14. [Get good at Git](https://app.daily.dev/posts/2aeGZE3lQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 15. [Software Developer vs Software Engineer](https://app.daily.dev/posts/_z87_Z_Xl?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
-
 <!-- daily.dev BOOKMARKS:END -->
