@@ -16,8 +16,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "daily.dev BOOKMARKS"
-          max_post_count: 17
-          commit_message: "Updated README.md with the 1000 latest Daily Dev bookmarks"
+          max_post_count: 20
+          commit_message: "Updated README.md with the 20 latest Daily Dev bookmarks"
           feed_list: "https://api.daily.dev/rss/b/11c29ef8-70f1-4c29-b88c-4a00bb6cefd0"
           tag_post_pre_newline: true
           template: "$counter. [$title]($url)$newline"
