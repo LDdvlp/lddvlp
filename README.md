@@ -152,8 +152,5 @@
 15. [ITOps vs. SecOps vs. DevOps vs. DevSecOps](https://app.daily.dev/posts/mgqRWKsip?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 16. [Why You Need To Learn More Than One Programming Language!](https://app.daily.dev/posts/KdNTKk7hW?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 17. [Automating Excel Sheet in Python](https://app.daily.dev/posts/fwOAsnz7M?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
-18. [Python Programming for the Absolute Beginner](https://app.daily.dev/posts/xUNe37pnY?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
-19. [The full lineup for Git Merge 2022 revealed](https://app.daily.dev/posts/0_jKA-h4Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
-20. [Authenticate from the Command Line with Java](https://app.daily.dev/posts/2zAVsgHFU?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 
 <!-- daily.dev BOOKMARKS:END -->
