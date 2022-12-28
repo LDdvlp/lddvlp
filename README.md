@@ -131,7 +131,7 @@
 <br />
 
 <div align="center">
-    <h2>Latest 15 Daily Dev Bookmarks</h2>
+    <h2>Latest 20 Daily Dev Bookmarks</h2>
 </div>
 
 <!-- daily.dev BOOKMARKS:START -->
