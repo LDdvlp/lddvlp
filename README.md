@@ -3,7 +3,7 @@
 <br />
 
 <div align="center">
-    <h2>Daily.dev</h2>    
+    <h2>Curation : Daily.dev</h2>    
     <a href="https://app.daily.dev/LDdvlp">
         <img
             src="https://api.daily.dev/devcards/6a2db644d7b342d5924aa8a261fc3c97.png?r=d2h" width="400"
