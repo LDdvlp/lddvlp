@@ -16,8 +16,8 @@
 
 <div align="center">
     <h2>Agile</h2>
-    <h3>PSM I</h3>
-    <a href="https://www.credly.com/badges/d4d9e0df-6646-4f8a-8896-103bc4c995f4/public_url"><img src="/images/01-professional-scrum-master-i-psm-i.png"/></a>
+    <h3>Professional Scrum Master I - PSM I</h3>
+    <a href="https://www.credly.com/badges/d4d9e0df-6646-4f8a-8896-103bc4c995f4/public_url" target="_blank"><img src="/images/01-professional-scrum-master-i-psm-i.png"/></a>
 </div>
 
 <br />
