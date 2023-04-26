@@ -1,4 +1,4 @@
-<h1 align="center"> You are welcome here :-)</h1>
+<h1 align="center">LDdvlp Profile</h1>
 
 <br />
 
@@ -15,14 +15,9 @@
 <br />
 
 <div align="center">
-    <h2>Hashnode</h2>
-    <h3>LDdvlp Papers</h3>
-    <a href="https://lddvlp.hashnode.dev/">
-        <img 
-            src="/images/00-hashnode-logo.jfif" 
-            width="200" alt="LDdvlp Papers" 
-        />
-    </a>
+    <h2>Agile</h2>
+    <h3>PSM I</h3>
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d4d9e0df-6646-4f8a-8896-103bc4c995f4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
 <br />
