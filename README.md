@@ -3,6 +3,13 @@
 <br />
 
 <div align="center">
+    <h2>Statistiques Séquences</h2>    
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=LDdvlp)](https://git.io/streak-stats)
+</div>
+
+<br />
+
+<div align="center">
     <h2>Curation : Daily.dev</h2>    
     <a href="https://app.daily.dev/LDdvlp">
         <img
@@ -13,8 +20,6 @@
 </div>
 
 <br />
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LDdvlp)](https://git.io/streak-stats)
 
 <br />
 
