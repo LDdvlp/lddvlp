@@ -14,6 +14,10 @@
 
 <br />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LDdvlp)](https://git.io/streak-stats)
+
+<br />
+
 <div align="center">
     <h2>Agile</h2>
     <h3>Professional Scrum Master I - PSM I</h3>
