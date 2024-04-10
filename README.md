@@ -4,7 +4,9 @@
 
 <div align="center">
     <h2>Statistiques Séquences</h2>    
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=LDdvlp)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LDdvlp)](https://git.io/streak-stats)
+
 </div>
 
 <br />
