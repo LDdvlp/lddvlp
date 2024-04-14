@@ -157,7 +157,7 @@
 14. [Understanding the &quot;this&quot; keyword, call, apply, and bind in JavaScript](https://app.daily.dev/posts/rp5KIiacD?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 15. [Introducing the Space Git Flow](https://app.daily.dev/posts/uJCkI3rNO?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 16. [How hackers took over Linus Tech Tips](https://app.daily.dev/posts/i5chSore7?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
-17. [Float UI - Open-source UI components &amp; templates](https://app.daily.dev/posts/w9Su4nFXp?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
+17. [Float UI - Product Information, Latest Updates, and Reviews 2024](https://app.daily.dev/posts/w9Su4nFXp?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 18. [RESTful Architecture Cheatsheet](https://app.daily.dev/posts/CklMHC7oY?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 19. [6 CSS snippets every front-end developer should know in 2023](https://app.daily.dev/posts/xAZmUIiBB?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
 20. [Creating a CRUD-Enabled Scheduling App with Syncfusion React Scheduler, Node.js, and PostgreSQL](https://app.daily.dev/posts/iVv423oPR?utm_source=rss&utm_medium=bookmarks&utm_campaign=Yaq6rDv_C)
