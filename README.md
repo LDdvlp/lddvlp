@@ -2,6 +2,8 @@
 
 <br />
 
+![My GitHub Game](game.gif)
+
 <div align="center">
     <h2>Statistiques Séquences</h2>    
 
